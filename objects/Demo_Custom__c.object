@@ -9,7 +9,6 @@
         <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
-    
     <actionOverrides>
         <actionName>Accept</actionName>
         <formFactor>Small</formFactor>
@@ -182,13 +181,12 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Field_Three__c</fullName>
+        <fullName>Phone_Number__c</fullName>
         <externalId>false</externalId>
-        <label>Field Three</label>
+        <label>Phone Number</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
+        <type>Phone</type>
     </fields>
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
