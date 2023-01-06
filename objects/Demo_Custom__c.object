@@ -187,7 +187,7 @@
         <label>Field Three</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
+        <type>Email</type>
         <unique>false</unique>
     </fields>
     <validationRules>
